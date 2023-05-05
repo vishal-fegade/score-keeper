@@ -1,2 +1,2 @@
 # score-keeper
-table tennis 
+table tennis game
